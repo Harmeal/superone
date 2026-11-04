@@ -1,4 +1,4 @@
-public class product {
+public class Product {
     // data hiding product
     private String product_name;
     private String product_code;
